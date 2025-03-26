@@ -1,13 +1,15 @@
 # Projeto CodeConnect
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcusViniciusGodoy/Desafio-Componentes-e-Inje-o-de-depend-ncia/blob/main/LICENSE)
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+Aplicação web de upload de arquivos para o curso de construção de páginas dinâmicas com JavaScript.
 
 ## 🔨 Funcionalidades do projeto
 
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+A aplicação permite fazer o upload de uma imagem, permitindo a criação de um formulário. Os itens terão Nome do projeto, Descrição e Tags. Também é possível selecionar um checkbox para publicar ou descartar o formulário.
 
-![Inserção no campo de digitação do valor ração de gato, após, é clicado no botão de edição, onde é aberto um popup para digitar o novo do nome item, que foi digitado ração de cachorro. Em seguida, é clicado no botão de exclusão, e o item é excluído.](https://imgur.com/isPj7Xf.gif)
+## Página principal
+![Index](https://github.com/MarcusViniciusGodoy/assets/blob/main/Capturar.PNG)
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
